@@ -6,7 +6,7 @@
 
 
 
-[nio模型](https://github.com/linhu123/linhu123.github.io/java/nio_model.md)
+[nio模型](https://github.com/linhu123/linhu123.github.io/blob/main/java/nio_model.md)
 
 
 
